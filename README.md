@@ -10,21 +10,21 @@ I specialize in building **scalable and efficient backend systems** and **RESTfu
 
 Key Contributions at Digimark Software House
 -----------------
-Developed **scalable backend systems** using **Django, FastAPI, and Flask** to support web applications.
+- Developed **scalable backend systems** using **Django, FastAPI, and Flask** to support web applications.
 
-Designed and implemented **RESTful APIs** for seamless integration with frontend systems and third-party services.
+- Designed and implemented **RESTful APIs** for seamless integration with frontend systems and third-party services.
 
-Utilized **PostgreSQL** and **SQLAlchemy** for database design, optimization, and management.
+- Utilized **PostgreSQL** and **SQLAlchemy** for database design, optimization, and management.
 
-Collaborated with cross-functional teams, including frontend developers and project managers, to deliver projects on time and within scope.
+- Collaborated with cross-functional teams, including frontend developers and project managers, to deliver projects on time and within scope.
 
 Soft Skills
 -----------------
-**Communication:** Effectively collaborate with teams and stakeholders.
+- **Communication:** Effectively collaborate with teams and stakeholders.
 
-**Teamwork:** Work seamlessly in cross-functional environments.
+- **Teamwork:** Work seamlessly in cross-functional environments.
 
-**Problem-Solving:** Tackle complex challenges with innovative solutions.
+- **Problem-Solving:** Tackle complex challenges with innovative solutions.
 
 I am a quick learner, open to feedback, and always eager to stay updated with the latest advancements in software engineering. With my technical expertise, dedication, and enthusiasm, I am committed to delivering high-quality software solutions and contributing to the success of dynamic engineering teams.
 
