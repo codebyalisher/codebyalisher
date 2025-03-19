@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Ali Sher
+Hi 👋 I am Ali Sher
 ================================================================================================================================
 
 Software Engineer
 -----------------
 
-![Screenshot (22)](https://github.com/codebyalisher/codebyalisher/assets/62823194/18b4de52-c180-4b7b-9ebd-e268f0b92c32)
 👋 **Hello! I'm Ali Sher**, a **Software Engineer** currently working at **Digimark Software House** as a **Python, Django, FastAPI, and Flask API Developer**.
 
 I specialize in building **scalable and efficient backend systems** and **RESTful APIs** for web applications. At Digimark, I have actively contributed to various projects, honing my coding skills and collaborating effectively with cross-functional teams to deliver high-quality solutions.
